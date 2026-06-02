@@ -544,12 +544,12 @@ Payback estimado:
 
 Me interesa recibir una validación técnica especializada.
 
-Por favor indíquenme cómo adjuntar el PDF generado para dar seguimiento a mi evaluación.
+Adjunto el PDF generado para dar seguimiento a mi evaluación.
 """
 
     mensaje_encoded = urllib.parse.quote(mensaje)
 
-    whatsapp_url = f"https://wa.me/{TELEFONO_WHATSAPP}?text={mensaje_encoded}"
+    whatsapp_url = f"https://wa.me/+5215527630274?text={mensaje_encoded}"
 
     st.link_button(
         "Solicitar Validación Técnica por WhatsApp",
