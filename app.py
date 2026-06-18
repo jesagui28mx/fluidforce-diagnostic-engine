@@ -412,9 +412,9 @@ try:
 except Exception:
     pass
 
-st.title("Fluid Force Diagnostic Engine")
+st.title("Water Asset Protection Program")
 
-st.subheader("Hotel Water Asset Protection Program")
+st.subheader("Hotels")
 
 st.markdown("""
 Evaluación preliminar de eficiencia hídrica, desempeño operativo y protección de activos para instalaciones hoteleras.  
