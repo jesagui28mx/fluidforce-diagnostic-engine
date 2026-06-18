@@ -22,7 +22,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 # ---------------------------------------------------
 
 st.set_page_config(
-    page_title="Fluid Force Diagnostic Engine",
+    page_title="Water Asset Protection Program",
     page_icon="💧",
     layout="centered"
 )
