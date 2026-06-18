@@ -414,7 +414,7 @@ except Exception:
 
 st.title("Water Asset Protection Program")
 
-st.subheader("Hotels")
+st.subheader("Hoteles")
 
 st.markdown("""
 Evaluación preliminar de eficiencia hídrica, desempeño operativo y protección de activos para instalaciones hoteleras.  
